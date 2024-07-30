@@ -6,8 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> @yield('titles') | Tasikmalaya</title>
-    {{-- <!--<link rel="icon" href="{!! asset('Asset/img/Seal_of_Tasikmalaya_Regency.png') !!}">--> --}}
-    <!--<link rel="stylesheet" href="style/main.css">-->
     @vite(['resources/css/main.css','resources/css/app.css'])
     @yield('stylesheet')
 </head>

@@ -31,28 +31,3 @@
     </div>
     </div>
   </nav>
-  
-<!--<div class="navbar no-mobile">
-    <a class="logo-navbar" href="/" rel="noopener noreferrer"><img src="{{ asset('Asset/img/Seal_of_Tasikmalaya_Regency.png') }}" alt="" /> Tasikmalaya</a>
-    <a href="{{ route('Home') }}" rel="noopener noreferrer">Beranda</a>
-    <a href="/fasilitas" rel="noopener noreferrer">Tentang</a>
-    <a href="/artikel" rel="noopener noreferrer">Maps</a>
-    <a href="/profile" rel="noopener noreferrer">Data Wisata</a>
-    <a href="/profile" rel="noopener noreferrer">Login</a>
-</div>
-<div class="navbar mobile">
-    <a class="logo-navbar" href="/"><img src="{{ asset('Asset/img/Seal_of_Tasikmalaya_Regency.png') }}" alt="" /></a>
-    <div class="menu">
-        <input id="toggle__menu" type="checkbox" />
-        <label class="menu__button" for="toggle__menu">
-            <span></span>
-        </label>
-        <ul class="menu__box">
-            <li><a class="menu__item" href="{{ route('Home') }}" rel="noopener noreferrer">Beranda</a></li>
-            <li><a class="menu__item" href="/fasilitas" rel="noopener noreferrer">Tentang</a></li>
-            <li><a class="menu__item" href="/artikel" rel="noopener noreferrer">Maps</a></li>
-            <li><a class="menu__item" href="/profile" rel="noopener noreferrer">Data Wisata</a></li>
-            <li><a class="menu__item" href="/profile" rel="noopener noreferrer">Login</a></li>
-        </ul>
-    </div>
-</div>-->
